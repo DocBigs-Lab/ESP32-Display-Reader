@@ -97,7 +97,7 @@ Aktuell unterstützte Boards:
 
 Firmware direkt im Browser flashen – kein zusätzliches Tool erforderlich:
 
-👉 **[Web Installer starten](https://docbig.github.io/ESP32-Display-Reader/)**
+👉 **[Web Installer starten](https://docbigs-lab.github.io/ESP32-Display-Reader/)**
 
 Der Installer erkennt den angeschlossenen Chip automatisch (ESP32-CAM, WROVER oder AtomS3R M12) und
 flasht die passende Firmware. AtomS3R-M12-Support ist Beta – siehe Hinweis auf der Installer-Seite.
